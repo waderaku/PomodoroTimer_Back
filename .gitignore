@@ -1,0 +1,10 @@
+# vscode setting
+.vscode
+
+migrations
+
+log
+
+*.pyc
+
+constants.py
